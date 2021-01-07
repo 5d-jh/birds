@@ -1,0 +1,25 @@
+{
+  "name": "notes-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5d-jh/notes-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5d-jh/notes-backend/issues"
+  },
+  "homepage": "https://github.com/5d-jh/notes-backend#readme",
+  "dependencies": {
+    "@nestjs/common": "^7.6.5",
+    "@nestjs/core": "^7.6.5",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^6.6.3"
+  }
+}
