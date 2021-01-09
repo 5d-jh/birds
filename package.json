@@ -1,5 +1,5 @@
 {
-  "name": "notes-backend",
+  "name": "birds",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/5d-jh/notes-backend.git"
+    "url": "git+https://github.com/5d-jh/birds.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/5d-jh/notes-backend/issues"
+    "url": "https://github.com/5d-jh/birds/issues"
   },
-  "homepage": "https://github.com/5d-jh/notes-backend#readme",
+  "homepage": "https://github.com/5d-jh/birds#readme",
   "dependencies": {
     "@nestjs/common": "^7.6.5",
     "@nestjs/core": "^7.6.5",
